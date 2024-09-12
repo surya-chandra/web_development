@@ -9,9 +9,9 @@ Start: Begins the stopwatch.
 Stop: Pauses the stopwatch.
 Reset: Resets the stopwatch to zero.
 File Structure
-index.html: Contains the #HTML structure of the stopwatch.
-styles.css: Contains the #CSS styles for the stopwatch interface.
-script.js: Contains the #JavaScript logic for the stopwatch functionality.
+index.html: Contains the @HTML structure of the stopwatch.
+styles.css: Contains the @CSS styles for the stopwatch interface.
+script.js: Contains the @JavaScript logic for the stopwatch functionality.
 Getting Started
 To get started with the stopwatch program, follow these steps:
 
