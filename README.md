@@ -1,6 +1,7 @@
 # web_development
 
-Stopwatch Program
+**Stopwatch Program** :
+-------------------------
 A simple stopwatch application built with HTML, CSS, and JavaScript. This stopwatch allows users to start, stop, and reset the timer. It features a clean and intuitive interface.
 
 Features
